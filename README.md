@@ -13,7 +13,7 @@
 
 <h1 align="center">📂 Folder Structure:</h1>
 
-➡️ /college/[course name]/ : Contains folders with assignments for each course.</br>
+➡️ /college/[program name]/ : Contains folders with assignments for each course.</br>
 ➡️ /experiments/ : My personal coding experiments.</br>
 
 <h1 align="center">📝 Notes:</h1>
